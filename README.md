@@ -3,6 +3,10 @@
 **Blinker** 是一款用于 VRChat 地图 **The BackroomsVR** 的辅助工具。  
 程序会自动读取 VRChat 日志中的关卡种子，并通过特定算法计算控制室密码和六个坑位对应的结果，帮助玩家快速获取关卡信息。
 
+<p align="center">
+  <img src="preview.png" alt="Blinker Preview" width="400">
+</p>
+
 ## 功能特性
 
 - 无需命令行操作，启动后即可使用。
