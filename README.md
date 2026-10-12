@@ -1,3 +1,7 @@
+> [!NOTE]
+> **源码与发行说明**  
+> 出于对地图算法实现细节的保护，本项目不公开源代码，仅发布编译后的 Windows 可执行文件。
+
 # Blinker
 
 **Blinker** 是一款用于 VRChat 地图 **The BackroomsVR** 的辅助工具。  
@@ -18,7 +22,7 @@
 ## 运行原理
 
 程序从以下目录读取 VRChat 日志：`%USERPROFILE%\AppData\LocalLow\VRChat\VRChat\`  
-启动后，程序会定位最新的 output_log_*.txt 文件，并从文件末尾向前查找最近一次关卡激活记录，例如：
+启动后，程序会定位最新的 `output_log_*.txt` 文件，并从文件末尾向前查找最近一次关卡激活记录，例如：
 
 ```text
 [LevelActivator:Lvl 0] Activate seed=1893789332
